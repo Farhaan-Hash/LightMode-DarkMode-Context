@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Basic Ligh-Mode Dark Mode with Context API in ReacJs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
